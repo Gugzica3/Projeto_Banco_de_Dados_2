@@ -625,9 +625,9 @@ Cada banco foi escolhido **estrategicamente** baseado nas características dos d
 
 ## 👨‍💻 Autores
 
-**Gustavo Bertoluzzi Cardoso R.a 22.123.016-2**
-**Isabella Vieira Silva Rosseto R.a 22.222.036-0**
-**Gustavo Bertoluzzi Cardoso R.a 22.123.016-2**
+Gustavo Bertoluzzi Cardoso R.a 22.123.016-2
+Isabella Vieira Silva Rosseto R.a 22.222.036-0
+Humberto de Oliveira Pellegrini R.a 22.224.019-4
 ---
 
 ## 📚 Referências
